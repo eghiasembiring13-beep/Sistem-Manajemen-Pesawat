@@ -1,4 +1,5 @@
 # Ini Project Pertamaku
 git remote add origin https://github.com/eghiasembiring13-beep/Sistem-Manajemen-Pesawat.git
 git branch -M main
-git push -u origin main
+
+Nambah baru
